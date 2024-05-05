@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/entities/customer.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/entities/factor.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/entities/freight.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/entities/message.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/entities/orders.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/entities/product.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/main.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/add_order.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/checkout.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/convert_product_price.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/delete_order.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/initial_setting.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/login_process.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/search_customers.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/search_drivers.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/search_product.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/search_salespersons.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_customer_info.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_customers.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_drivers.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_messages.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_orders.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_products.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/show_salespersons.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/signup_process.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/update_customer_info.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/update_driver_info.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/update_order.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/update_product_info.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/services/update_salesperson_info.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/validator/validation_username.py" dialect="GenericSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/entities/customer.py" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;8c2f0a84-853b-4755-b73b-74584af50e71&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;shopdb&quot;      }     }    }   }  } }}" />
+  </component>
+</project>
